@@ -1,6 +1,6 @@
 <div align="center">
 <br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=arial+2P&size=32&duration=5000&pause=500&color=0013f8&center=true&vCenter=true&width=700&lines=Native%20Native%20Native%20Native%20" />
+<img src="https://readme-typing-svg.herokuapp.com?font=arial+2P&size=32&duration=5000&pause=500&color=005ef8&center=true&vCenter=true&width=700&lines=Native%20Native%20Native%20Native%20" />
 
 <br><br>
 
@@ -10,10 +10,8 @@
 <i>Websites, python scripts, backends, pen testing</i>
 
 <br><br>
-<div align="column">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
 </div>
 
 <br><br>
@@ -25,7 +23,7 @@
 
 &nbsp;
 <a href="https://native.beer/">
-<img src="https://img.shields.io/static/v1?message=My website!&label=&color=007BFF&logoColor=white&style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/My%20Website!-0082f7" height="28"/>
 </a>
 </div>
 </div>
