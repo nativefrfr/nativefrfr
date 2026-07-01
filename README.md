@@ -8,6 +8,7 @@
 <h1>skills</h1>
 
 <i>Websites, python scripts, backends, pen testing</i>
+<br>
 <i>backend dev and community manager for Vr game diggin</i>
 <br><br>
 <div align="center">
