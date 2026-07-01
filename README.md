@@ -8,7 +8,7 @@
 <h1>skills</h1>
 
 <i>Websites, python scripts, backends, pen testing</i>
-
+<i>backend dev and community manager for Vr game diggin</i>
 <br><br>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
